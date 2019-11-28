@@ -32,18 +32,18 @@ def list_of_directors(source)
     i += 1 
   end 
   
-   director_name
+   name
    # need to output the end result
   # Write this implementation
 end
 
 def total_gross(source)
-  director_total = directors_totals(source)
-  director_name = list_of_directors(source)
-  counter = 0 
-  total = 0 
+  #director_total = directors_totals(source)
+  #dir_name = list_of_directors(source)
+  #counter = 0 
+  #total = 0 
   
-  while counter < director_name.length do 
+  #while counter < dir_name.length do 
     
     
     
