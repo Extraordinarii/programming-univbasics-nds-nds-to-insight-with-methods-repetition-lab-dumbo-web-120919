@@ -38,6 +38,15 @@ def list_of_directors(source)
 end
 
 def total_gross(source)
+  director_total = directors_totals(source)
+  director_name = list_of_directors(source)
+  counter = 0 
+  total = 0 
+  
+  while counter < director_name.length do 
+    
+    
+    
   # Write this implementation
   #
   # Should use methods:
