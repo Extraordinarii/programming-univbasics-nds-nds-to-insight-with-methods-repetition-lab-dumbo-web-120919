@@ -32,7 +32,7 @@ def list_of_directors(source)
     i += 1 
   end 
   
-   name
+   directors
    # need to output the end result
   # Write this implementation
 end
